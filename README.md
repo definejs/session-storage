@@ -2,7 +2,7 @@
 
 
 
-会话存储工具类。
+针对应用层可以保持数据类型的会话存储工具类。
 
 sessionStorage 属性允许你访问一个 session Storage 对象。
 它与 localStorage 相似，不同之处在于 localStorage 里面存储的数据没有过期时间设置，
