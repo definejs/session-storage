@@ -1,7 +1,7 @@
 {
   "name": "@definejs/session-storage",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "针对应用层可以保持数据类型的会话存储工具类。",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
